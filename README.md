@@ -1,4 +1,4 @@
-===============================================
+
 Employee Management System (Python + PyQt5 + MySQL)
 ===============================================
 
@@ -21,11 +21,3 @@ Built using:
     --------
 - Designed for basic CRUD operations.
 - Can be extended with login system, PDF export, CSV report, or pagination.
-
-📧 CONTACT
-----------
-Developer: [Your Name]
-Email: your.email@example.com
-GitHub: https://github.com/yourusername
-
-Enjoy using the Employee Management System!
